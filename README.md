@@ -1,1 +1,1 @@
-# qt-flappy-bird
+# qt-paint-app
